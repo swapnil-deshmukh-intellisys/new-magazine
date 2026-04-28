@@ -1,0 +1,22 @@
+/* [project]/UNICORN/src/styles/footer.module.css [client] (css) */
+.footer-module__PGWvBq__footer_content {
+  width: 30vw;
+}
+
+.footer-module__PGWvBq__footer_content p {
+  font-size: medium;
+}
+
+@media only screen and (max-width: 600px) {
+  .footer-module__PGWvBq__footer_start {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .footer-module__PGWvBq__footer_content {
+    text-align: center;
+    width: 80vw;
+  }
+}
+
+/*# sourceMappingURL=UNICORN_src_styles_footer_module_css_65f1660e._.single.css.map*/

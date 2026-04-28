@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/UNICORN/src/styles/footer.module.css"],"sourcesContent":[".footer_content {\r\n  width: 30vw;\r\n}\r\n\r\n.footer_content p {\r\n  font-size: medium;\r\n}\r\n\r\n@media only screen and (max-width: 600px) {\r\n  .footer_start {\r\n    flex-direction: column;\r\n    align-items: center;\r\n  }\r\n  .footer_content {\r\n    width: 80vw;\r\n    text-align: center;\r\n  }\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;AAIA;;;;AAIA;EACE;;;;;EAIA"}}]
+}
